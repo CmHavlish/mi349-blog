@@ -45,3 +45,36 @@ a[href="index.html"]{
 a[href="contact.html"]{
     color: blue;
 }
+.navigation{
+    background-color: gray;
+    position: sticky;
+    top: 0px;
+}
+img{
+    max-width:100%;
+    height:auto;
+    
+}
+.MustangPhoto1{
+    height: 200px;
+    float: left;
+    margin-right: 20px; 
+}
+.table{
+    background: #ccc;
+    display: flex;
+}
+#Entry1{
+   
+    flex: 3;
+}
+#Entry2{
+   
+    flex: 3;
+}
+#Entry3{
+    
+    flex: 2;
+}
+
+
